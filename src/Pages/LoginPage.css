@@ -1,0 +1,12 @@
+.login-page {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr;
+  min-height: calc(100vh - 80px);
+}
+
+@media (min-width: 1024px) {
+  .login-page {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}

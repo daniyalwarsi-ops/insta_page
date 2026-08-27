@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  background-color: #0c0f12;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+* {
+  margin: 0px;
+}
