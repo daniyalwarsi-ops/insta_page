@@ -20,7 +20,7 @@ function Hero() {
         <div className="hero-section__card-backdrop" />
         <div className="hero-section__card-wrap">
           <img
-            src="./public/Screenshot_2026-08-20_013615-removebg-preview.png"
+            src="../assets/Screenshot_2026-08-20_013615-removebg-preview.png"
             alt=""
             className="hero-section__image"
           />
