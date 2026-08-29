@@ -10,3 +10,11 @@
 * {
   margin: 0px;
 }
+
+.disclaimer {
+  font-size: 11px;
+  color: #71717a;
+  text-align: center;
+  padding: 16px;
+  line-height: 1.5;
+}

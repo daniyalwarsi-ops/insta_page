@@ -1,6 +1,5 @@
 import React from "react";
 import Nav from "./Nav";
-import heroImg from "../assets/Screenshot_2026-08-20_013615-removebg-preview.png";
 import "./Hero.css";
 
 function Hero() {
@@ -20,7 +19,11 @@ function Hero() {
       <div className="hero-section__card-wrap">
         <div className="hero-section__card-backdrop" />
         <div className="hero-section__card-wrap">
-          <img src={heroImg} alt="" className="hero-section__image" />
+          <img
+            src="./public/Screenshot_2026-08-20_013615-removebg-preview.png"
+            alt=""
+            className="hero-section__image"
+          />
         </div>
       </div>
     </div>
